@@ -1,4 +1,8 @@
 # Hi there!, I'm Cristian Muñoz
 
-<p align="center">
-<a href="https://www.linkedin.com/in/cristian-daniel-mu%C3%B1oz-botero-283a841a9/ target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorvtyagi" height="30" width="30" /></a>&nbsp;
+I'm a backend developer from Colombia. Currently, I'm expanding my skills into the exciting field of **cybersecurity**. I'm  fascinated by the technical and strategic aspects of cybersecurity, and I'm eager to contribute to making the digital world safer. 
+
+## What I do
+
+### Backend development
+- **Languages**
