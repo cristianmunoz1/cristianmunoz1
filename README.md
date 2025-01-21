@@ -5,5 +5,5 @@ I'm a backend developer from Colombia. Currently, I'm expanding my skills into t
 ## What I do
 ### Backend development
 <p align "center">
-    <img src="https://seeklogo.com/images/J/java-logo-7833D1D21A-seeklogo.com.png">
+    ![alt text](./images/java.png?raw=true "Java")
 </p>
