@@ -4,6 +4,5 @@ I'm a backend developer from Colombia. Currently, I'm expanding my skills into t
 
 ## What I do
 ### Backend development
-<p align "center">
-    ![alt text](./images/java.png?raw=true "Java")
-</p>
+
+  [text](./images/java.png?raw=true "Java")
