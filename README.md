@@ -8,4 +8,4 @@ I'm a backend developer from Colombia. Currently, I'm expanding my skills into t
 <img src="https://github.com/cristianmunoz1/cristianmunoz1/blob/main/images/stackbackend.png"  />
 
 ### Tools
-<img src="https://github.com/cristianmunoz1/cristianmunoz1/blob/main/images/stacktools.png"  />
+<img src="https://github.com/cristianmunoz1/cristianmunoz1/blob/main/images/stacktools.png"  height="60px"/>
