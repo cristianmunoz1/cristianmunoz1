@@ -4,8 +4,12 @@ I'm a backend developer from Colombia. Currently, I'm expanding my skills into t
 
 ## What I do
 <p align="center">
+
+
 <h1> Backend development
 - **Languages**
+
+
 
 </h1>
 </p>
