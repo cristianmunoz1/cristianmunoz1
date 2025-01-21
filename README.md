@@ -5,4 +5,4 @@ I'm a backend developer from Colombia. Currently, I'm expanding my skills into t
 ## What I do
 ### Backend development
 
-  <img src="https://github.com/cristianmunoz1/cristianmunoz1/blob/main/images/java.png" width="45" />
+  <img src="https://github.com/cristianmunoz1/cristianmunoz1/blob/main/images/java.png" width="100" />
