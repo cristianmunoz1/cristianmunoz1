@@ -14,7 +14,7 @@ I'm a backend developer from Colombia. Currently, I'm expanding my skills into t
 
 <img src="https://github.com/cristianmunoz1/cristianmunoz1/blob/main/images/csharp.png" width="100" />
 
-<img src="https://github.com/cristianmunoz1/cristianmunoz1/blob/main/images/postgres.png" width="100" />
+<img src="https://github.com/cristianmunoz1/cristianmunoz1/blob/main/images/postgres.png" width="70" />
 
 <img src="https://github.com/cristianmunoz1/cristianmunoz1/blob/main/images/oracle.png" width="100" />
 </p>
